@@ -3,4 +3,5 @@ venv
 *.pyc
 .env
 .DS_Store
+.pytest_cache
 
